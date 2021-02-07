@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'actionpack',  '~> 3.2.1'
 
-  s.add_development_dependency 'rake', '0.9.2'
+  s.add_development_dependency 'rake', '13.0.3'
 end
